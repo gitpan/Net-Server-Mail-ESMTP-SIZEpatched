@@ -1,0 +1,9 @@
+Changes
+lib/Net/Server/Mail/ESMTP/SIZEpatched.pm
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/Net-Server-Mail-ESMTP-SIZEpatched.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

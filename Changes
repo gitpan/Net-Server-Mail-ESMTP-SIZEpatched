@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::Server::Mail::ESMTP::SIZEpatched.
+
+0.01  Thu Apr 26 13:21:53 2012
+	- copied from original Net::Server::Mail::ESMTP::SIZE
+		Applied modified fix from https://rt.cpan.org/Public/Bug/Display.html?id=56680
+

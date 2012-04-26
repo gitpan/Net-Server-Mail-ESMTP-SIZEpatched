@@ -1,0 +1,9 @@
+Net-Server-Mail-ESMTP-SIZEpatched version 0.01
+==============================================
+
+This is a patched version of Net::Server::Mail::ESMTP::SIZE
+
+All credits for the original source code go to Jose Luis Martinez,
+credits for the basis of this patched version go to Christian Felsing.
+
+The humble creator of this workaround module is Rene Schickbauer.

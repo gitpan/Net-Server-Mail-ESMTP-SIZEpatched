@@ -1,5 +1,5 @@
 ---
-abstract: unknown
+abstract: 'add support for the SIZE ESMTP extension to Net::Server::Mail '
 author:
   - 'Rene Schickbauer <rene.schickbauer@magnapowertrain.com>'
 build_requires:
@@ -19,4 +19,4 @@ no_index:
     - inc
 requires:
   Net::Server::Mail::ESMTP::SIZE: 0
-version: 0.01
+version: 0.02

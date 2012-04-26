@@ -3,7 +3,7 @@ package Net::Server::Mail::ESMTP::SIZEpatched;
 use strict;
 use base qw(Net::Server::Mail::ESMTP::Extension);
 use vars qw($VERSION);
-$VERSION     = '0.01';
+$VERSION     = '0.02';
 
 sub init {
     my ($self, $parent) = @_;
@@ -62,7 +62,7 @@ sub parameter {
 
 =head1 NAME
 
-Net::Server::Mail::ESMTP::SIZE - add support for the SIZE ESMTP extension to Net::Server::Mail 
+Net::Server::Mail::ESMTP::SIZEpatched - add support for the SIZE ESMTP extension to Net::Server::Mail 
 
 =head1 SYNOPSIS
 

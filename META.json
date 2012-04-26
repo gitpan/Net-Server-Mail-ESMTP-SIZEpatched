@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "add support for the SIZE ESMTP extension to Net::Server::Mail ",
    "author" : [
       "Rene Schickbauer <rene.schickbauer@magnapowertrain.com>"
    ],
@@ -37,5 +37,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
